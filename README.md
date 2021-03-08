@@ -1,2 +1,3 @@
-# assets
-For my(koolisw) own assets server.
+---
+permalink: /index.html
+---
